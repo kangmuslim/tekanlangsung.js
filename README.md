@@ -1,0 +1,2 @@
+# tekanlangsung.js
+tekanlangsung
